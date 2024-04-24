@@ -14,7 +14,7 @@ Neste repositório você encontrará uma página super elaborada para consumir c
 | ✨ Nome        | **Alura Play** - CSS Flex |
 | 🏷️ Tecnologias |HTML, CSS, JavaScript |
 
-<img src="/img/assets/icons/spotifyClone.JPG" alt="Descrição da imagem">
+<img src="/img/aluraPlay.JPG" alt="Descrição da imagem">
 
 
 ## Detalhes do projeto
@@ -48,7 +48,7 @@ Há aulas específicas para o desenvolvimento, mas há atividades que nos permit
 <table style="text-align: center;">
   <tr>
     <td>
-      <img height="150px" src="/src/assets/icons/Imersão-Front-End-06-02-24.JPG">
+      <img height="150px" src="/img/certificadocss.JPG">
     </td>
    </tr>
 </table>
