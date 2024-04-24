@@ -11,10 +11,10 @@ Neste repositório você encontrará uma página super elaborada para consumir c
 <!-- prettier-ignore -->
 | VBDOL DEV |   |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✨ Nome        | **Alura Play** - Imersão Alura |
+| ✨ Nome        | **Alura Play** - CSS Flex |
 | 🏷️ Tecnologias |HTML, CSS, JavaScript |
 
-<img src="/src/assets/icons/spotifyClone.JPG" alt="Descrição da imagem">
+<img src="/img/assets/icons/spotifyClone.JPG" alt="Descrição da imagem">
 
 
 ## Detalhes do projeto
